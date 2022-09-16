@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <CloudKnightOps>
+   # CloudKnightOps
 
    # Input:
    # p, principal amount
